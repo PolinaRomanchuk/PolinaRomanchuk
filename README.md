@@ -5,8 +5,8 @@
 [![Telegram](https://img.icons8.com/color/30/000000/telegram-app--v1.png)](https://t.me/poli_rn)
 [![Email](https://img.icons8.com/color/30/000000/gmail--v1.png)](mailto:polina.romanchuk99@mail.ru)
 
-Мое резюме можно посмотреть [здесь](https://drive.google.com/file/d/1AfavBskqx-aEKUm9_PnKMkAdCXLtBRGK/view?usp=sharing).  
-Мои проекты можно посмотреть [здесь](https://admirable-hamster-4c0200.netlify.app/).
+Мое резюме можно посмотреть [здесь](https://drive.google.com/file/d/1yem2uQJ4zkD_5B3aK8qIjGxsMi2tyQZb/view?usp=sharing).  
+Мои проекты можно посмотреть [здесь](https://polina-romanchuk-portfolio.netlify.app/).
 
 Мои навыки:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
